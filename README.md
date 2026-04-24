@@ -1,8 +1,9 @@
 # AppsAndWebsiteURLs
 
 ## VTTRPG
-### questboard.up.railway.app
+### questboard.up.railway.app / vtt-questboard.vercel.app
 - virtual table top for all types of RPGs
+- currently on vercel due to an issue with nix and railway
 
 ## Jump Dude
 ### jump-dude-production.up.railway.app
@@ -15,5 +16,5 @@
 - url will be: red-and-blackboard.up.railway.app
 
 ## UGA Transit App
-- being built
-- url will be: uga-transit.up.railway.app
+### uga-transit.up.railway.app
+- UGA Software Engineering Project
